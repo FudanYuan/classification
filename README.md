@@ -10,4 +10,4 @@
 ## python -m visdom.server
 ## run at train.py
 # Test Result
-![](https://github.com/huzixuan1/classification/blob/master/pro_picture/3.png)
+![](https://github.com/huzixuan1/classification/blob/master/pro_picture/4.png)
