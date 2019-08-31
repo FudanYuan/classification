@@ -1,2 +1,2 @@
 # Pytorch for my project
-![](https://raw.githubusercontent.com/huzixuan1/classification/pro_picture/logo.gif)
+![](https://github.com/huzixuan1/classification/blob/master/pro_picture/logo.gif)
